@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/userLogin/login",
+    "pages/chooseBgm/chooseBgm",
+    "pages/mine/mine",
+    "pages/userRegist/regist"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "StarTikTok",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true
+}
